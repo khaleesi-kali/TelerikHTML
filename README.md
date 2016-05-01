@@ -1,3 +1,2 @@
 # TelerikHTML
-Homework and stuff
-ry
+Homework for HTML classes
