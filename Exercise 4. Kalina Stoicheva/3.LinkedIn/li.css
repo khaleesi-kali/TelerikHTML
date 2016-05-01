@@ -1,0 +1,16 @@
+table, th, td {
+			border: 2px solid white;
+		}
+		
+		h1
+		{
+		color: white;
+		}
+		span#one {
+		font-size:25px;
+		}
+		body{
+		font-size:15px;
+		color:#838383;
+		background-color:#cdd7dc;
+		}
